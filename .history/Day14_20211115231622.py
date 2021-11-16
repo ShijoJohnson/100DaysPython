@@ -1,5 +1,5 @@
 from artDay14 import logo, vs
-from replit import clear
+from replit import clear 
 from gameDataDay14 import data
 import random
 
